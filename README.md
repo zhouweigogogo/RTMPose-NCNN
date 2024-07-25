@@ -6,6 +6,7 @@
 ![infer show](./results.gif)
 # How to run
 ``` shell
+cd rtmpose
 mkdir build
 cd build 
 cmake ..
