@@ -1,8 +1,9 @@
 # RTMPose-NCNN
 
 # Introduction
-**RTMPose** using ncnn easier ！no complicated steps required，**FPS 30+** running on Raspberry Pi 5
+**RTMPose** using ncnn easier ！no complicated steps required，**FPS 30+** running on Raspberry Pi 5<br>
 
+![infer show](./results.gif)
 # How to run
 ``` shell
 mkdir build
